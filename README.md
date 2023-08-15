@@ -1,6 +1,7 @@
-![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
+<h1 align='center'> Hi there 👋, I am Tshepo Serumula </h1>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 # Tshepo Serumula
-### Geophysicist | Data Science Enthusiast | Tutor
+### Geophysicist | Data Science Enthusiast | Software Engineer
 
 Welcome to my GitHub profile! I'm Tshepo Serumula, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio. I am also learning these skills to apply them in building Geological models in the field of Geosciences.
 
