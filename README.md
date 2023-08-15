@@ -1,5 +1,6 @@
 <h1 align='center'> Hi there 👋, I am Tshepo Serumula </h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
+
 # Tshepo Serumula
 ### Geophysicist | Data Science Enthusiast | Software Engineer
 
