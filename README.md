@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm Tshepo Serumula, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio. I am also learning these skills to apply them in building Geological models in the field of Geosciences.
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUKHMAN-SINGH-1612&theme=dark)](https://github.com/SUKHMAN-SINGH-1612)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tshepo-Elifa-Serumula&theme=dark)](https://github.com/Tshepo-Elifa-Serumula)
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&repo=Data-Science-Projects)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&repo=Applied-Data-Science-Capstone-SpaceX)](https://github.com/SUKHMAN-SINGH-1612/Applied-Data-Science-Capstone-SpaceX)
